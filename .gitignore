@@ -28,6 +28,5 @@ node_modules
 tutorial*.md
 images
 data/db
-data/outputFile.json
 _*
 env3
