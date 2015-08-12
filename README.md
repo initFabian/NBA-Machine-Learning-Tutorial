@@ -1,7 +1,7 @@
 # NBA-Machine-Learning-Tutorial
 
 
-Depending on what stage of the [tutorial](http://fabianbuentello.io/#/blog/NBA_Machine_Learning_Tutorial) you want to start, you can choose one of the following:
+Depending on what stage of the [tutorial](http://fabianbuentello.io/blog/NBA_Machine_Learning_Tutorial) you want to start, you can choose one of the following:
 
 ####Clean start
 Beginning of Chapter 1:
