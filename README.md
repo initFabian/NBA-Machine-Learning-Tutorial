@@ -6,17 +6,22 @@ Depending on what stage of the [tutorial](http://fabianbuentello.io/blog/NBA_Mac
 ####Clean start
 Beginning of Chapter 1:
 ```Bash
-git checkout Clean
+git checkout startChapter1
+```
+####Before we Clean Data
+Beginning of Chapter 2, before Cleaning:
+```Bash
+git checkout startChapter2
 ```
 
 ####Before we Structure Data
 Beginning of Chapter 3, before Structuring:
 ```Bash
-git checkout Cleaning_Done
+git checkout startChapter3
 ```
 
 ####Post Structuring
 Beginning of Chapter 4, before Machine Learning:
 ```Bash
-git checkout start_python
+git checkout startChapter4
 ```
